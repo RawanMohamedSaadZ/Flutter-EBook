@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981228918559",
+    "project_id": "enlighten-263ce",
+    "storage_bucket": "enlighten-263ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981228918559:android:84e88b71e4f3f06dfe022a",
+        "android_client_info": {
+          "package_name": "com.example.enlightenme.enlighten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981228918559-c3il14cg1k7vp1j95rukbn0t06h0vs7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDCFUOIE9lVzHJMABrIwTnZNZWWuYQVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981228918559-c3il14cg1k7vp1j95rukbn0t06h0vs7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
